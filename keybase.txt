@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/shyamsundar_cs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shyam.xyz
+  * I am shyamsundar_cs (https://keybase.io/shyamsundar_cs) on keybase.
+  * I have a public key with fingerprint F8FA C9FA DEF7 697B 8EF4  8993 9769 EF07 0CC1 D358
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f8fac9fadef7697b8ef489939769ef070cc1d358",
+            "host": "keybase.io",
+            "key_id": "9769ef070cc1d358",
+            "kid": "01019b881d9e1b5db0f408dfb5dc768acff5afd787ddc7a0c6cf4ce3cf93feb226d10a",
+            "uid": "e54275879bafb0d766d41aa8e3956b00",
+            "username": "shyamsundar_cs"
+        },
+        "service": {
+            "hostname": "shyam.xyz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437669738,
+    "expire_in": 157680000,
+    "prev": "fa5950bc05f6542ce15564a9eb129a2cf96a107692858d2da9d178df240ea7ed",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtUltIVEEY3jV1sQukPVRqktNDkIvN2T3XjSLah24URJSk1TJzZmY9muesZ8+a
+m4nVi/hQVtAVIha6viQWQkVLVFuxFWU3EqKLaWEvXSi0h9aaIwU9NC8z//9//zf/
+9/HvnzbJk+cdW1JF91krI977H7FnQ+9ssw1giyRBqA000omLGWaU2jHbMB0QAkxl
+SNcYIpQpsqZglTJR1bSgxiPKoAJ1XSBBSQV+UG/F3Q5Og1GcVhsWz/EgYhCe/Q++
+caIABShoWFUFolEBSwRDJkKVMP7UFVlFOmMSYkRRFcITCOqyzkSdBnWmBRnFgYBM
+BIg4XWKCjkpiQJFURcOIYUgUWSaigJBKg5okYwhdYJzaJmqiHB2vT6KmeMIkyI7o
+cdDuB7zWYujUNcLV8y+uujW5g7fHbMuxdGsbT9c7TizkdjnJmAvbTnHkD0EEGybh
+TvKGFmrHDcsEIYEjdcdwGQUxyEfTlKDqB7Q1Ztg0YrgIiUuG/Ljf0BbXfyRpEsQ6
+lJjMpelUkCRZRBrFQkBDAe6CjATIzQ2okkoCBGlEULh9ARFSpFACXEnNpgVCMh8T
+RV0xRtRETsLOp6B9cpe3PN/jzfMUFuS52+CZXDT974o8IL7cjIbMumxNylc8fHzt
+s0zu1oLwiYHGgu757MfuvkdDEb23Mk1znfe6ug6DA9b6VXNqroz3d0yZmfoFjwxc
+SJH9n29uKltUCx5WfTl9ozbxeFL4qMfOz/a9OD9zsISMNn1f/6nUWfyEUSllfbvy
+el92zaF5N4rxePXc9NCWxK6d769WdCwkBz8trXzzMTXo6172srbCvrM3jHoua+Hm
+MyWlYPWtXWPeDjGrlPXl0se+DpbP61+cq3v3as/nt3VbH3aP9ZzqezrWPKuwcHnU
+/9yelVq14tLFTMfJ80Unq85dr0tv2L18sx3JrBi5ZuEPD27XIN/GkalVd4tLnc6z
+ow0/h38D
+=Kmbh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shyamsundar_cs
+
+==================================================================
+
