@@ -1,2 +1,2 @@
-# shyam.xyz
-the static site of shyam.xyz
+# shyamsundar.org
+the static site of shyamsundar.org

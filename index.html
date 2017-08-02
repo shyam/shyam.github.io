@@ -1,44 +1,55 @@
 <!DOCTYPE HTML>
-<!--
-  Eventually by HTML5 UP
-  html5up.net | @n33co
-  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
   <head>
     <title>Shyam Sundar C S</title>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
     <link rel="stylesheet" href="assets/css/main.css" />
-    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-    <meta name="google-site-verification" content="nywB4f16CAS-zWTq0GEeCISL8rPdV87icbAqYEqmnAc" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
   </head>
-  <body>
+  <body class="is-loading">
 
-    <!-- Header -->
-      <header id="header">
-        <h1>Shyam Sundar C S</h1>
-        <p>IT Infrastructure and Security Professional.</p>
-      </header>
+    <!-- Wrapper -->
+      <div id="wrapper">
 
-    <!-- Footer -->
-      <footer id="footer">
-        <ul class="icons">
-          <li><a href="https://twitter.com/shyamsundar_cs" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-          <li><a href="https://in.linkedin.com/in/shyam-sundar-c-s-321a7a" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-          <li><a href="https://github.com/shyam" class="icon fa-github-alt"><span class="label">GitHub</span></a></li>
-        </ul>
-        <ul class="copyright">
-          <li>Photos are &copy; Shyam Sundar C S.</li>
-          <li>Template by: <a href="http://html5up.net">HTML5 UP</a></li>
-        </ul>
-      </footer>
+        <!-- Main -->
+          <section id="main">
+            <header>
+              <span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+              <h1>Shyam Sundar C S</h1>
+              <p>IT Infrastructure, Security and Site Reliability Professional</p>
+            </header>
+
+            <footer>
+              <ul class="icons">
+                <li><a href="https://twitter.com/shyamsundar_cs" class="fa-twitter">Twitter</a></li>
+                <li><a href="https://github.com/shyam" class="fa-github">Github</a></li>
+                <li><a href="https://in.linkedin.com/in/shyam-sundar-c-s-321a7a" class="fa-linkedin">LinkedIn</a></li>
+              </ul>
+            </footer>
+          </section>
+
+        <!-- Footer -->
+          <footer id="footer">
+            <ul class="copyright">
+              <li>&copy; Shyam Sundar C S</li>
+              <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+            </ul>
+          </footer>
+
+      </div>
 
     <!-- Scripts -->
-      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-      <script src="assets/js/main.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+      <script>
+        if ('addEventListener' in window) {
+          window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+          document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+        }
+      </script>
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -47,7 +58,12 @@
 
         ga('create', 'UA-66063078-2', 'auto');
         ga('send', 'pageview');
-
       </script>
+
   </body>
+<!--
+  Identity by HTML5 UP
+  html5up.net | @n33co
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 </html>
